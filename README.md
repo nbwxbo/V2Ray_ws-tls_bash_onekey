@@ -42,7 +42,7 @@
 ## 安装方式（）
 Vmess+websocket+TLS+Nginx+Website
 ```
-bash <(curl -L -s https://raw.githubusercontent.com/mikewubox/V2Ray_ws-tls_bash_onekey/master/install.sh) | tee v2ray_ins.log
+bash <(curl -L -s https://raw.githubusercontent.com/nbwxbo/V2Ray_ws-tls_bash_onekey/master/install.sh) | tee v2ray_ins.log
 ```
 
 ```
